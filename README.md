@@ -8,7 +8,7 @@ Kim Rodrin,
 Mark Kian Malimban,
 Mico Olivares
 
-Program 1: "Program Name"
+Program 1: "Comparing Data"
 - This program demonstrates method overloading or compile-time binding. In the "Compare" class, the "compare()" method checks if the values determined by its parameters, is equal. This function allows one single method to be reused indefinitely just by changing its parameters.
 
 Program 2: "Basic Arithmetic Operations"
